@@ -1,0 +1,26 @@
+ASSET GUIDANCE
+
+logo.webp
+- Built from the exact tablet/book cover image requested by the user.
+- Used in the header and official details section.
+
+hero-book.webp
+- Main hero book image.
+- Must remain large, clear and unblocked.
+
+cover.webp
+- Flat front cover image used in the about section.
+
+back-cover.webp
+- Back cover / reader response book image.
+
+reader-quote.webp
+- Wide reader response visual.
+
+og-image.webp
+- 1200x630 social sharing preview.
+
+favicon-32.png, favicon-64.png, apple-touch-icon.png
+- Created from the requested tablet/book cover image.
+
+Do not rename these files unless the HTML, schema and metadata paths are updated as well.
