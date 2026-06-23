@@ -1,0 +1,34 @@
+UPLOAD INSTRUCTIONS
+
+Repository:
+https://github.com/bayleebreton-author/gun-to-your-temple-author-website
+
+Live URL after GitHub Pages:
+https://bayleebreton-author.github.io/gun-to-your-temple-author-website/
+
+1. Unzip this package.
+2. Open the folder named gun-to-your-temple-author-website-FINAL.
+3. Upload the root files first:
+   - index.html
+   - 404.html
+   - robots.txt
+   - sitemap.xml
+   - llms.txt
+   - llms-full.txt
+   - README.md
+   - UPLOAD-INSTRUCTIONS.txt
+4. Create or upload the assets folder.
+5. Upload all files inside assets/ into the GitHub assets folder.
+6. Commit changes.
+7. Go to Settings -> Pages.
+8. Select Deploy from a branch.
+9. Select main and /root.
+10. Save.
+11. Test:
+   https://bayleebreton-author.github.io/gun-to-your-temple-author-website/
+   https://bayleebreton-author.github.io/gun-to-your-temple-author-website/robots.txt
+   https://bayleebreton-author.github.io/gun-to-your-temple-author-website/sitemap.xml
+   https://bayleebreton-author.github.io/gun-to-your-temple-author-website/llms.txt
+   https://bayleebreton-author.github.io/gun-to-your-temple-author-website/llms-full.txt
+
+No custom domain is included yet.
